@@ -1,0 +1,419 @@
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\appsettings.json
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\libman.json
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.exe
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.deps.json
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.runtimeconfig.json
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.runtimeconfig.dev.json
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.pdb
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.Views.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.Views.pdb
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.AssemblyInfoInputs.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.AssemblyInfo.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorAssemblyInfo.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorAssemblyInfo.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.TagHelpers.input.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.TagHelpers.output.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorCoreGenerate.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Account\SuccessRegister.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Components\ProductGroupsComponent.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Detail.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Product\ShowProductByGroupId.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_BoxProduct.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Groups.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorTargetAssemblyInfo.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorTargetAssemblyInfo.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.Views.pdb
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.csproj.CopyComplete
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\MyEshop.StaticWebAssets.Manifest.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\MyEshop.StaticWebAssets.xml
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.pdb
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.genruntimeconfig.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Index.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Add.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Edit.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Delete.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Create.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Delete.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Details.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Edit.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Index.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.csprojAssemblyReference.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ZarinpalSandbox.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.csproj.CoreCompileInputs.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.MvcApplicationPartsAssemblyInfo.cache
+D:\TopLearn\AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\OnlinePayment.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\libman.json
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.StaticWebAssets.xml
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.exe
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.deps.json
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.runtimeconfig.json
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.runtimeconfig.dev.json
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.pdb
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.Views.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\MyEshop.Views.pdb
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Bcl.HashCode.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Data.Sqlite.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualBasic.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.batteries_v2.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.nativelibrary.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.core.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\System.Xml.XPath.XmlDocument.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ZarinpalSandbox.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\debian-x64\native\libuv.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\fedora-x64\native\libuv.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\opensuse-x64\native\libuv.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\osx\native\libuv.dylib
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\rhel-x64\native\libuv.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win7-arm\native\libuv.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win7-x64\native\libuv.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win7-x86\native\libuv.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.csproj.AssemblyReference.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.AssemblyInfoInputs.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.AssemblyInfo.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.csproj.CoreCompileInputs.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorAssemblyInfo.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorAssemblyInfo.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\MyEshop.StaticWebAssets.Manifest.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\MyEshop.StaticWebAssets.Pack.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.MyEshop.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.build.MyEshop.props
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildMultiTargeting.MyEshop.props
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\staticwebassets\msbuild.buildTransitive.MyEshop.props
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.TagHelpers.input.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.TagHelpers.output.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorCoreGenerate.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Add.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Delete.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Edit.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\Index.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Create.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Delete.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Details.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Edit.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Admin\ManageUsers\Index.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Account\SuccessRegister.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Components\ProductGroupsComponent.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Detail.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\OnlinePayment.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Home\ShowCart.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Product\ShowProductByGroupId.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_BoxProduct.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Groups.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Create.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Delete.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Details.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Edit.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\Users\Index.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorTargetAssemblyInfo.cache
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.RazorTargetAssemblyInfo.cs
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.Views.pdb
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.csproj.CopyComplete
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.dll
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.pdb
+D:\Learning\ASP.Net Core دوره مقدماتی\53_AspNetCore3\MyEshop\MyEshop\obj\Debug\netcoreapp3.0\MyEshop.genruntimeconfig.cache
