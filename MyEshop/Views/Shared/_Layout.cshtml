@@ -7,21 +7,55 @@
     @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
     @*<link href="~/css/bootstrap-rtl.css" rel="stylesheet" />*@
     @*<link href="~/lib/bootstrap4/css/bootstrap.css" rel="stylesheet" />*@
+    <link rel="icon" href="~/Icon.ico"/>
     <link href="~/lib/bootstrap4/css/bootstrap-rtl.css" rel="stylesheet" />
     <link href="https://cdn.rawgit.com/rastikerdar/sahel-font/v1.0.0-alpha23/dist/font-face.css" rel="stylesheet" type="text/css" />
     @*<link rel="stylesheet" href="~/css/site.css" />*@
+    <style>
+        .box-product{
+            box-shadow: 0 0 0 #0003;
+        }
+        .box-product:hover{
+            box-shadow: 5px 5px 20px #0003;
+            transition: all 0.2s linear;
+        }
+
+        .nav-link:hover {
+            color: white;
+        }
+    </style>
 </head>
-<body class="rtl" style="font-family: Sahel,sans-serif;">
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+<body class="rtl" style="font-family: Sahel,sans-serif;background-color: rgb(249, 250, 252);">
+    <header class="position-sticky" style="top: 0;z-index: 10;background-color: rgb(250, 251, 255);box-shadow: 0 5px 20px #0002;">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light border-bottom box-shadow mb-3">
             <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">فروشگاه من</a>
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index" style="font-weight: bold; color: #007bff">دِنو لرن</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <ul class="navbar-nav flex-grow-1">
+                <div class="navbar-collapse d-flex collapse d-sm-inline-flex flex-sm-row-reverse justify-content-between">
+                     <div class="list-unstyled d-flex btn-group">
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item pull-right">
+                                <a class="nav-link text-dark" >@User.Identity.Name خوش آمدید !</a>
+                            </li>
+                            <li class="nav-item pull-right">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">خروج</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item pull-right btn btn-outline-primary" style="height: 50px;">
+                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Register">ثبت نام</a>
+                            </li>
+                            <li class="nav-item pull-right btn btn-outline-primary text-white" style="height: 50px;">
+                                <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Login">ورود</a>
+                            </li>
+                        }
+                     </div>
+                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">خانه</a>
                         </li>
@@ -30,24 +64,6 @@
                         </li>
                         <partial name="_Groups" />
 
-                     @if (User.Identity.IsAuthenticated)
-                     {
-                         <li class="nav-item pull-right">
-                             <a class="nav-link text-dark" >@User.Identity.Name خوش آمدید !</a>
-                         </li>
-                         <li class="nav-item pull-right">
-                             <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">خروج</a>
-                         </li>
-                     }
-                     else
-                     {
-                         <li class="nav-item pull-right">
-                             <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">ثبت نام</a>
-                         </li>
-                         <li class="nav-item pull-right">
-                             <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">ورود</a>
-                         </li>
-                     }
                     </ul>
                 </div>
             </div>
@@ -55,19 +71,17 @@
     </header>
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
-                @await Component.InvokeAsync("ProductGroupsComponent")
-            </div>
-            <div class="col-md-9">
+            <div class="col-md-12">
                 @RenderBody()
             </div>
-
         </div>
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2020 - MyEshop - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        <div class="d-flex justify-content-center text-white bg-dark m-0 p-0">
+            @* &copy; 2020 - MyEshop - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a> *@
+
+            <p>تمام حقوق مادی و معنوی این سایت متعلق به دِنوین می باشد - @DateTime.Now.Year</p>
         </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

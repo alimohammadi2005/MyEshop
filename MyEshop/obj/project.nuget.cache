@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "km2MkwyEyCHnSq806rU/+lEzFr3ZzQE8ELjLymZ3PW0NW9U5YSWzGbr81DYGway5YUwVbDGfaP4D+aTukPuOsQ==",
+  "dgSpecHash": "/AtQ8VXJIJyKECE3n/ri2xO65dv9CeSGhCPfvUHd0EB9jXOVa+i8UxgVr69SdsWQ0vGSPmG9JJ75li7RCTq7qw==",
   "success": true,
-  "projectFilePath": "D:\\Learning\\ASP.Net Core دوره مقدماتی\\53_AspNetCore3\\MyEshop\\MyEshop\\MyEshop.csproj",
+  "projectFilePath": "D:\\Development\\Project\\ASP Projects\\MyEshop\\MyEshop\\MyEshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nafir\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\Nafir\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -3,10 +3,10 @@
     ViewData["Title"] = ViewData["GroupName"];
 }
 
-<h1>محصولات گروه @ViewData["GroupName"]</h1>
+<h1>دوره های دسته @ViewData["GroupName"]</h1>
 <hr/>
 
-<div class="row">
+<div class="row justify-content-center">
     @foreach(var item in Model)
     {
         <partial name="_BoxProduct" model="@item"/>

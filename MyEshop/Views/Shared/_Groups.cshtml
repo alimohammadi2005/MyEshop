@@ -2,7 +2,7 @@
 @inject IGroupRepository _GroupRepository;
 
 <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">گروه ها</a>
+    <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown09" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="color: #343a40">دسته بندی ها</a>
     <div class="dropdown-menu" aria-labelledby="dropdown09">
         @foreach (var item in _GroupRepository.GetAllCategories())
         {

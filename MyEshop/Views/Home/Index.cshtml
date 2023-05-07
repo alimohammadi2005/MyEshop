@@ -1,13 +1,14 @@
 ﻿@model IEnumerable<Product>
 
 @{
-    ViewData["Title"] = "فروشگاه من";
+    ViewData["Title"] = "دِنو لرن | آموزشی نو";
 }
 
 <div class="text-center">
-    <h1 class="display-4">به فروشگاه ما خوش آمدید</h1>
+    <h1 class="display-4" style="font-weight: bold; color: #007bff  ">به آموزشگاه دِنو لرن خوش آمدید</h1>
+    <h4>ورود به دنیای برنامه نویسی همراه با ما</h4>
     <hr/>
-    <div class="row">
+    <div class="row justify-content-center" style="gap: 20px;">
         @foreach(var item in Model)
         {
             <partial name="_BoxProduct" model="@item"/>

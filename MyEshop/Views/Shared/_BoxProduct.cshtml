@@ -1,14 +1,14 @@
 ﻿@model Product
 
 
-<div class="col-4">
-    <div class="card">
+<div class="col-12 col-sm-3 mb-5">
+    <div class="card box-product text-center">
         <img src="/images/@(Model.Id).jpg" height="160" width="160" class="card-img-top img-thumbnail"/>
         <div class="card-body">
             <h5 class="card-title">@Model.Name</h5>
             <a asp-action="Detail"
                asp-controller="Home"
-               asp-route-id="@Model.Id">جزئیات محصول</a>
+               asp-route-id="@Model.Id" style="font-weight: bold">جزئیات دوره</a>
         </div>
 
     </div>
